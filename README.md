@@ -116,6 +116,7 @@ MIT License
 **Last Updated:** January 2025
 
 ## Join our community! 🌐
-- **Discord:** [Community Link](#)
-- **Reddit:** [Subreddit](#)
-- **LinkedIn Group:** [Group Link](#)
+- 📷 Instagram: [@datascilearn](https://www.instagram.com/datascilearn/)
+- 📣 YouTube: [DataSciLearn](https://www.youtube.com/@datascilearn)
+- 📺 Telegram: [DataSciLearn](https://t.me/datascilearn)
+- 🔗 LinkedIn: [DataSciLearn](https://www.linkedin.com/company/datascilearn)
