@@ -1,4 +1,6 @@
-# 🚀 Agentic AI Learning Roadmap 2025 ![Uploading image.png…]()
+# 🚀 Agentic AI Learning Roadmap 2025 ![image](https://github.com/user-attachments/assets/b6395f44-a2af-4801-bc61-4d885ed3c634)
+
+
 
 
 ## 📝 Overview
