@@ -1,4 +1,5 @@
-# 🚀 Agentic AI Learning Roadmap 2025 https://img.shields.io/badge/Agentic%20AI-Learning%20Roadmap-blue?style=for-the-badge
+# 🚀 Agentic AI Learning Roadmap 2025 ![Uploading image.png…]()
+
 
 ## 📝 Overview
 This roadmap is a comprehensive guide for mastering Agentic AI in 2025, designed for developers, researchers, and AI enthusiasts looking to dive deep into the world of intelligent, autonomous agents.
