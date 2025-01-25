@@ -57,10 +57,10 @@ This roadmap is a comprehensive guide for mastering Agentic AI in 2025, designed
 
 ## 📚 Learning Resources
 ### Official Documentation
-- [LangChain Docs](https://www.langchain.com/docs)
-- [AutoGen GitHub](https://github.com/microsoft/autogen)
-- [CrewAI Documentation](https://www.crewai.com/docs)
-- [Phidata Docs](https://www.phidata.com/docs)
+- [LangChain and LangGraph Docs](https://www.langchain.com/docs)(https://langchain-ai.github.io/langgraph/)
+- [AutoGen GitHub](https://microsoft.github.io/autogen/0.2/docs/Getting-Started/)
+- [CrewAI Documentation](https://docs.crewai.com/introduction)
+- [Phidata Docs](https://docs.phidata.com/introduction)
 
 ### Research Papers
 - "Generative Agents" (Stanford)
