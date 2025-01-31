@@ -1,0 +1,6 @@
+agno
+ollama
+groq
+python-dotenv
+duckduckgo-search
+streamlit
