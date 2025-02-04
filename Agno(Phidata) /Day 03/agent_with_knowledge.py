@@ -27,5 +27,4 @@ agent = Agent(
     knowledge=knowledge_base,
     show_tool_calls=True
 )
-
-agent.print_response("How Deeseek model is better than OpenAI", markdown=True)
+agent.print_response("How to make Thai curry?", markdown=True)
