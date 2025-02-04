@@ -1,0 +1,14 @@
+agno
+ollama
+groq
+python-dotenv
+duckduckgo-search
+streamlit
+yfinance
+plotly
+cohere
+pypdf
+google-generativeai 
+lancedb
+
+
